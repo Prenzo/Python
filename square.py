@@ -1,6 +1,6 @@
-def square(a,b):
-    answer =  a ** b
+def square(a,a):
+    answer =  a ** a
     return (answer)
 
-print (add(4,2))
-#expected outcome is 16
+print (add(4,4))
+#expected outcome is 36
